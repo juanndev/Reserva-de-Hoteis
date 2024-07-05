@@ -1,0 +1,31 @@
+/* Background navbar */
+.bg-orange {
+    color: var(--bg-white);
+    background-color: var(--bg-orange);
+}
+/* Button navbar */
+.bg-orange .container .navbar-brand {
+    color: var(--bg-white);
+}
+.bg-orange .container .navbar-toggler {
+    color: var(--bg-white);
+    background-color: transparent;
+    border-color: transparent;
+    outline: none;
+    box-shadow: none;
+}
+.bg-orange .container .navbar-toggler .navbar-toggler-icon {
+    color: var(--bg-white);
+    border-color: var(--bg-white);
+}
+.bg-orange .container .navbar-collapse .navbar-nav .nav-item:hover {
+    background-color: var(--bg-orange-hover);
+}
+.bg-orange .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+    color: var(--bg-white);
+}
+
+/* .snow */
+/* .bg-orange .container .collapse {
+    min-height: 100vh;
+} */

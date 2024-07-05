@@ -1,0 +1,11 @@
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: var(--bg-orange);
+    transition: width .6s ease;
+}
