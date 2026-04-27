@@ -1,42 +1,64 @@
-# Hotel Samurai
+# 🏨 Hotel JuannDev - Sistema de Reserva de Hotéis
 
-Olá, tudo bem?
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Fico agradecido e feliz por você está por aqui vendo um dos meus projetos.
+Uma landing page moderna e totalmente responsiva para reserva de hotéis e pousadas. O foco deste projeto foi a criação de uma interface limpa (Clean UI) utilizando **Bootstrap 5** para agilidade no layout e **JavaScript Vanilla** para manipulação de componentes e máscaras de input.
 
-Segue abaixo mais detalhes do mesmo.
+---
 
-## Sobre o projeto
+## 📸 Demonstração
 
-Esse é um projeto que desenvolvi atraves do curso de Front end Master da Dev Samurai.
+| Desktop Preview | Mobile Preview |
+| :---: | :---: |
+| ![Desktop Preview](assets/img/desktop-preview.png) | ![Mobile Preview](assets/img/mobile-preview.png) |
 
 
-As tecnologias que estão sendo usadas neste projeto são:
+---
 
-1. Bootstrap (V5).
-2. CSS.
-3. JavaScript.
+## ✨ Funcionalidades
 
-## Status/Andamento
+* **Busca Personalizada:** Filtros de localização, data de entrada/saída e número de hóspedes.
+* **Seções em Destaque:** Exibição de hotéis e pousadas com cards estilizados e badges de desconto.
+* **Diferenciais:** Seção dedicada a apresentar as vantagens e serviços oferecidos.
+* **Avaliações de Clientes:** Slider/Cards com depoimentos para prova social.
+* **Design Responsivo:** Interface adaptada para todos os tamanhos de tela (Mobile-First).
+* **Estrutura Modular:** CSS organizado por componentes (navbar, buttons, cards, etc.) para facilitar a manutenção.
 
-Em desenvolvimento.
+---
 
-## Observações importantes
+## 🛠️ Tecnologias Utilizadas
 
-Caso queira clonar o repositório ou utilizar em algum projeto pessoal, por favor, dá os devidos créditos ao professor carlos. 
+* **HTML5:** Estruturação semântica da página.
+* **CSS3:** Estilização customizada com foco em variáveis e modularização.
+* **Bootstrap 5:** Framework para sistema de grid e componentes responsivos.
+* **JavaScript (Vanilla):** Lógica de busca e integração de bibliotecas de máscara.
+* **Google Fonts:** Tipografia moderna e ícones de material design.
 
-Ficarei muito grato! :D
+---
 
-## Contato Aluno
+## 🚀 Como Visualizar o Projeto
 
-E-mail: contatojuanmota@gmail.com
+Como este projeto foi desenvolvido com tecnologias nativas da web, não é necessário instalar dependências.
 
-## Contato tutor
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/juanndev/Reserva-de-Hoteis.git](https://github.com/juanndev/Reserva-de-Hoteis.git)
+   ```
 
-E-mail: carlos.contato00@gmail.com
+2. **Abrir o projeto:**
+    ```bash
+    Basta abrir o arquivo index.html diretamente no seu navegador.
+    Dica: Se estiver usando o VS Code ou Cursor, recomendo usar a extensão Live Server para visualizar as alterações em tempo real.
+    ```
 
-Website: [https://carloseduardo.dev](https://carloseduardo.dev)
+## 👤 Autor
 
-Atenciosamente,
-
-Cadu.
+### Juan Mota
+```bash
+Instagram: https://www.instagram.com/juann.dev/
+LinkedIn: https://www.linkedin.com/in/juanndev/
+GitHub: https://github.com/juanndev
+```
